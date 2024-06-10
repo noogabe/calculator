@@ -18,7 +18,7 @@ $ git clone https://github.com/GabrieleAlmeida/calculadora.git
 
 ```
 
-## 👁️ Resultado do Design:
+## 👁️ Result:
 
 <h1 align="center">
 
