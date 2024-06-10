@@ -1,10 +1,10 @@
-# Calculadora
+# Calculator
 
-## Calculadora desenvolvida para praticar meus conhecimentos em HTML, CSS e Javascript
+## This project was developed to practice my knowledge of HTML, CSS and Javascript
 
-## :rocket: Tecnologias:
+## :rocket: Technologies:
 
-Este projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - [HTML](https://www.w3schools.com/html/)
 - [CSS](https://www.w3schools.com/css/)
@@ -13,7 +13,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ## :information_source: Instalação
 
 ```bash
-# Clone o repositório para sua máquina local
+# Clone the repository to your local machine
 $ git clone https://github.com/GabrieleAlmeida/calculadora.git
 
 ```
